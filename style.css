@@ -27,6 +27,8 @@ body {
 hr{
     width: 100%;
     size: 10px;
+    top: 20px;
+    position: relative;
 }
 /* Header Styles */
 header {
